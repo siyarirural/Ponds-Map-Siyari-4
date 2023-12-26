@@ -1,0 +1,1 @@
+var json_CrossRoad_6 = {"type":"FeatureCollection","name":"CrossRoad_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"osm_id":"-748438079","name":"Chhapiya Chauk","type":"town","population":null},"geometry":{"type":"Point","coordinates":[83.3561473,27.562109]}}]}
